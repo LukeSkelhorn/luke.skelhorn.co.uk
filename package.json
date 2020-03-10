@@ -1,0 +1,10 @@
+{
+  "name": "luke.skelhorn.co.uk",
+  "version": "1.0.0",
+  "description": "My personal website",
+  "main": "app.js",
+  "repository": "https://github.com/LukeSkelhorn/luke.skelhorn.co.uk",
+  "author": "Luke Skelhorn",
+  "license": "MIT",
+  "private": false
+}
